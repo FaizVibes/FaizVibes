@@ -73,14 +73,23 @@
 
 <h2>⚡️ Where to find me</h2>
 <div align="center">
-  <a target="_blank" href="https://x.com/mfaizan153945" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" />
+ <a href="mailto:muhammadf4060@gmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/Email-muhammadf4060@gmail.com-FF0000?logo=gmail&logoColor=FFFFFF&style=flat-square&scale=1.2&glow=FF00FF" alt="Email" height="35"/>
   </a>
-  <a target="_blank" href="https://www.linkedin.com/in/muhammad-faizan-2541132b8" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  <a href="https://linkedin.com/in/muhammadfaizan">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Muhammad%20Faizan-0A66C2?logo=linkedin&logoColor=FFFFFF&style=flat-square&scale=1.2&glow=FF00FF" alt="LinkedIn" height="35"/>
   </a>
-  <a target="_blank" href="https://www.instagram.com/fazii.963" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
+  <a href="https://twitter.com/mfaizan153945">
+    <img src="https://custom-icon-badges.demolab.com/badge/Twitter-@mfaizan153945-1DA1F2?logo=twitter&logoColor=FFFFFF&style=flat-square&scale=1.2&glow=FF00FF" alt="Twitter" height="35"/>
+  </a>
+  <a href="https://instagram.com/fazii.963">
+    <img src="https://custom-icon-badges.demolab.com/badge/Instagram-fazii.963-E4405F?logo=instagram&logoColor=FFFFFF&style=flat-square&scale=1.2&glow=FF00FF" alt="Instagram" height="35"/>
+  </a>
+  <a href="https://medium.com/@muhammadf4060">
+    <img src="https://custom-icon-badges.demolab.com/badge/Medium-@muhammadf4060-12100E?logo=medium&logoColor=FFFFFF&style=flat-square&scale=1.2&glow=FF00FF" alt="Medium" height="35"/>
+  </a>
+  <a href="https://discord.gg/1209567481824419923">
+    <img src="https://custom-icon-badges.demolab.com/badge/Discord-Join%20My%20Server-7289DA?logo=discord&logoColor=FFFFFF&style=flat-square&scale=1.2&glow=FF00FF" alt="Discord" height="35"/>
   </a>
 </div>
 
